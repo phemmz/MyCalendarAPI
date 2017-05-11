@@ -1,0 +1,23 @@
+{
+  "name": "mycalendarapi",
+  "version": "1.0.0",
+  "description": "a simple command line application that consumes api",
+  "main": "quickstart.js",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phemmz"
+  },
+  "keywords": [
+    "myCalendar"
+  ],
+  "author": "Adetunji Femi <phemmzmcllroy@gmail.com>",
+  "license": "ISC"
+}
